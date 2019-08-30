@@ -12,7 +12,7 @@
  
 # Recommended Tools
  
-   To create a repo, we require a web browser like chrome or firefox and the basic tools required are mentioned below with the links.
+   To create a repo, we require a web browser like chrome or firefox and the basic tools required are mentioned below with the links. 
    
  - [Chrome](https://www.google.com/chrome/)
  - [Visual studio](https://visualstudio.microsoft.com/downloads/)
