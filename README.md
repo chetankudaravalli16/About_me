@@ -25,7 +25,7 @@
 - [W3schools](https://www.w3schools.com/whatis/whatis_github.asp)
 - [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 
-# contributers
+# contributors
 
 My name is Chetan Kudaravalli and I am a new member of the Fall Batch working on my Masters of Applied Computer Science at NorthWest Missouri State University. Here is my picture when I went on a trip to newyork.
 
