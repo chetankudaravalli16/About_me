@@ -8,7 +8,7 @@
  
 # About
  
- This Repo deals with GitHub and the tools and languages associated with it, which will help to publish a repository in GitHub.
+ This Repo deals with GitHub and the tools and languages associated with it, which will help to publish a repository in GitHub!
  
 # Recommended Tools
  
