@@ -21,14 +21,14 @@
 # Recommended Resources
   As I am new to this GitHub, the following links are some pages which I referred to get started with GitHub.
 
--[Hello-world](https://guides.github.com/activities/hello-world/)
--[W3schools](https://www.w3schools.com/whatis/whatis_github.asp)
--[Git Handbook](https://guides.github.com/introduction/git-handbook/)
+- [Hello-world](https://guides.github.com/activities/hello-world/)
+- [W3schools](https://www.w3schools.com/whatis/whatis_github.asp)
+- [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 
 # contributers
 
 My name is Chetan Kudaravalli and I am a new member of the Fall Batch working on my Masters of Applied Computer Science at NorthWest Missouri State University. Here is my picture when I went on a trip to newyork.
 
-![Image]()
+![Image](20190810_223220.jpg)
  
  
